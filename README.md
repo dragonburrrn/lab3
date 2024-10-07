@@ -1,2 +1,2 @@
 # lab3
-Lab3 kot
+Lab3 primer1
